@@ -14,4 +14,5 @@ public class Voluntario  extends Funcionario
     {
         throw new IllegalStateException("nao implementado");
     }
+
 }
